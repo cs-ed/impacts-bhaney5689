@@ -15,7 +15,7 @@ Students will collaborate while making connections between computer science and 
 
 ### Learning Activities
 
-Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
+There will be weekly online discussions, which serve the purpose of promoting collaboration, current event awareness, digital etiquette, and self-reflection on topics both explicitly and less so on topics related to the overlap between student lives, computer science, and social issues.  Since class grades will be split between projects and discussions, reflections on social issues will account for roughly 50% of student grades.  As an example, one of the first prompts to respond to is "Describe both a positive and negative online experience involving social media.  For each, reflect on whether you believe the experience you had was common for students your age.  What evidence can you find?"  After responding to the prompt early in the week, students have the rest of the week to respond to two other student responses in an appropriate manner.
 
 ### Assessment
 
