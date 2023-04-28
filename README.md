@@ -7,7 +7,7 @@ Computer Science is a high school, A-G qualifying course that I intend to teach 
 
 ### Learning Objectives
 
-SStudents will design and implement socially conscious tech startups to gain relevant and applicable computer science skills.
+Students will design and implement socially conscious tech startups to gain relevant and applicable computer science skills.
 Students will create computer models which incorporate the principles of digital citizenship.
 Students will analyze relevant computer science research to represent the relationship between humans, computers, and different fields of study.
 Students will collaborate while making connections between computer science and social issues.
