@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ZbDEPIzT)
 # Impacts on Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
+Computer Science is a high school, A-G qualifying course that I intend to teach within the next two years at the high school I am currently employed for.  The course has already been approved by the UC system to satisfy the A-G requirements.  Computer Science is a year long course, adapted from the extended TEALS Program curriculum, which is based off the renown CS10 course from UC Berkeley.  The first semester is an engaging course that explores a variety of basic computational thinking and programming concepts through a project-based learning environment.  Snap! is the coding tool used to explore the fundamental computer science topics, such as loops, abstractions, lists, and cloning. The second semester focuses on the use of Python 3, covering such topics as conditionals, functions, nested loops, music programming, dictionaries, and object-oriented programming.  Both semesters end in a student-designed programming project.  All computer science principles will be analyzed through lenses of integration, concentration, and social impacts.
 
 ## Plan
 
