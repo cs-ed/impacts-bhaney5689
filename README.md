@@ -19,6 +19,8 @@ There will be weekly online discussions, which serve the purpose of promoting co
 
 ### Assessment
 
+The rubric for the discussion will include the following requirements: thoughtfulness, 
+
 Describe how you plan to assess the learning objectives described above.
 
 ### Outcomes
