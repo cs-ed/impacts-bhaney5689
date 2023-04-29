@@ -19,10 +19,8 @@ There will be weekly online discussions, which serve the purpose of promoting co
 
 ### Assessment
 
-The rubric for the discussion will include the following requirements: thoughtfulness, 
-
-Describe how you plan to assess the learning objectives described above.
+The rubric for the discussion will include the following requirements: critical analysis in their own response, participation in learning community, digital etiquette, and quality of writing.  This will ensure that discussions are thoughtful, collaborative, and inclusive. 
 
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+The three signifcant ways this course will promote equity/inclusion are using an approachable software such as Snap!, incorporating significant collaborative student discussions and reflections, and implementing a project-based approach to the course.  Because of this, students will be able to reflect on computer science, their lives, and society. The course is also able to be run in a Title I rural high school, so access issues are accounted for.
